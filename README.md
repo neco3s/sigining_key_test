@@ -3,8 +3,8 @@ confirm verifyied commit
 
 add .
 
-commit "hello world"
+git commit -m "hello world"
 
-git push
+git push origin main
 
 confirm verified tag on github web browser
